@@ -1,0 +1,25 @@
+{
+    "name": "itscracker/rest-sdk",
+    "description": "This package seeks to help php developers configure different functions flawlesly.",
+    "keywords": ["yii", "sdk", "microservices"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ananda Douglas",
+            "email": "developer@healthplus.co.ke"
+        }
+    ],
+    "type": "library",
+    "require": {
+		"php": ">=5.6.0",
+		"yiisoft/yii2": "~2.0.35"
+    },
+    "require-dev": {
+		"phpunit/phpunit": "6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "itscracker\\rest-sdk\\": "src/"
+        }
+    }
+}
