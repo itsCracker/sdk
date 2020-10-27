@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "itscrackerclear\\rest-sdk\\": "src/"
+            "helpers\\SDK\\": "src/"
         }
     }
 }

@@ -1,0 +1,5 @@
+git add .
+git commit -m "update"
+git tag -a v1.0.1 -m "updated release"
+git push -u origin main
+git push --tags
