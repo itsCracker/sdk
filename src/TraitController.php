@@ -1,6 +1,6 @@
 <?php
 
-namespace app\components;
+namespace helpers\SDK;
 
 /**
  * @author Muhamad Alfan <muhamad.alfan01@gmail.com>
